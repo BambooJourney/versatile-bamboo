@@ -1,0 +1,23 @@
+.fs-4{
+    color: white;
+}
+
+.nav-link{
+    color: white;
+}
+
+.nav-link:hover{
+    color: beige;
+}
+
+.btn {
+    color: black;
+    background-color: white;
+    border-color: black;
+  }
+
+  .btn:hover{
+    color: black;
+    background-color: beige;
+    border-color: black;
+  }
